@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>  
 
-
+### :About me:
 i'm a full stack web developer from kenya.  
   - i built full stack web applications
   - i'm also trying out technical content writing
